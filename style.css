@@ -24,10 +24,10 @@ body {
 
 .head-text {
   margin-top: 2em;
-  width:15em;
+  width:12em;
   display: inline-block;
   font-weight: bolder;
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: hsl(218, 44%, 22%);
 
 }
