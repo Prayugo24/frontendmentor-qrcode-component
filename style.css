@@ -23,7 +23,7 @@ body {
 }
 
 .head-text {
-  margin-top: 2em;
+  margin-top: 1em;
   width:12em;
   display: inline-block;
   font-weight: bolder;
@@ -33,7 +33,7 @@ body {
 }
 
 .desc {
-  margin-top: 1em;
+  margin-top: 0.2em;
   width: 16em;
   display: inline-block;
   font-size: 15px;
